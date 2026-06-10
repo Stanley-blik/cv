@@ -1,2 +1,5 @@
-# cv
-My CV | Stanley Isaac
+# My CV | Stanley Isaac
+
+![Image 1](assets/1.png)
+
+![Image 2](assets/2.png)
